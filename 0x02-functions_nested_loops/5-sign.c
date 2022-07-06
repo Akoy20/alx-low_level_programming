@@ -2,7 +2,7 @@
 
 /**
  * _sign -> prints sign based on condition
- * @c: argument passed
+ * @n: argument passed
  *
  * Return: returns 1, 0 -1
  */
