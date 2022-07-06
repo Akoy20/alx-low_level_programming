@@ -2,18 +2,20 @@
 
 /**
  * print_alphabet_x10 -> prints the lowercase alphabets 10 times
+ *
+ * Return: Always 0
  */
-void print_alphabet_x10(void);
+void print_alphabet_x10(void)
 {
 	int x;
 	int y;
 
-	for (x = 0; x < 10; x++)
+	for (y = 0; y < 10; y++)
 	{
-		for (y = 'a'; y <= 'z'; y++)
-		}
-			_putchar(y);
+		for (x = 'a'; x <= 'z'; x++)
 		{
+			_putchar(x);
+		}
 		_putchar('\n');
 	}
 }
