@@ -1,7 +1,7 @@
-nclude "main.h"
+#include "main.h"
 
 /**
-* mul -> multiplying 2 numbers
+* mul -> multiplying two numbers
 * @a: interger param1
 * @b: integer param2
 * Return: success and intiger
